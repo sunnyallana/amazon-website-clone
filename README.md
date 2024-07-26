@@ -13,7 +13,7 @@ This project is a frontend clone of the Amazon website, created using HTML and C
 
 Here is a preview of what the cloned website looks like:
 
-![Amazon Website Clone](images/page_view.jpg)
+![Amazon Website Clone](images/page_view.png)
 
 ## Live Demo
 
